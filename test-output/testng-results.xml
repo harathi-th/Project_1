@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-30T18:56:47 IST" name="Default suite" finished-at="2024-05-30T18:57:36 IST" duration-ms="48414">
+    <groups>
+    </groups>
+    <test started-at="2024-05-30T18:56:47 IST" name="Default test" finished-at="2024-05-30T18:57:36 IST" duration-ms="48414">
+      <class name="myproject.Women2">
+        <test-method signature="Next()[pri:0, instance:myproject.Women2@662b4c69]" started-at="2024-05-30T18:56:47 IST" name="Next" finished-at="2024-05-30T18:57:35 IST" duration-ms="47442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Next -->
+        <test-method is-config="true" signature="Quit()[pri:0, instance:myproject.Women2@662b4c69]" started-at="2024-05-30T18:57:35 IST" name="Quit" finished-at="2024-05-30T18:57:36 IST" duration-ms="813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Quit -->
+      </class> <!-- myproject.Women2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
